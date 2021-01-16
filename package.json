@@ -1,0 +1,23 @@
+{
+  "name": "The-Crown-Guy",
+  "version": "1.0.0",
+  "description": "The Crown Guy Website(under construction)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spartan10234/The-Crown-Guy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spartan10234/The-Crown-Guy/issues"
+  },
+  "homepage": "https://github.com/spartan10234/The-Crown-Guy#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
