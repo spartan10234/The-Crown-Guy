@@ -2,7 +2,7 @@ const app = require("express")();
 const PORT = process.env.PORT || 3000;
 
 app.get("/", (req, res)=> {
-    res.send("<h1>Hello World</h1>");
+    res.sendFile(path.join(__dirname, 'Public', 'index.html'));//send("Hello World");
 });
 
 app.listen(PORT, () => {
