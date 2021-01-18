@@ -1,0 +1,1 @@
+<?php header("home.html"); ?>

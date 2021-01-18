@@ -3,7 +3,7 @@ const PORT = process.env.PORT || 3000;
 const app = express() 
 
 app.get('/', function(request, response){
-    response.sendFile(__dirname +'/Public/index.html');
+    response.sendFile(__dirname +'/Public/index.php');
 });
 
 app.listen(PORT, () => {
