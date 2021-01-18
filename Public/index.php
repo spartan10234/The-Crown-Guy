@@ -1,1 +1,0 @@
-<?php header("home.html"); ?>
