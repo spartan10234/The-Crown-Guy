@@ -1,1 +1,1 @@
-web: Public/index.php
+web: node app.js
